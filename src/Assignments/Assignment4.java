@@ -6,9 +6,9 @@ public class Assignment4 {
 		int i = 10;
 		int j = 7;
 		
-	int k = j;
-	 j = i;
-	 i = k;
+		int k = j;
+		 j = i;
+		 i = k;
 	 
 	
 	
